@@ -1,3 +1,4 @@
+<!-- README TOP -->
 # ecommerce_frontend
 <!-- PROJECT LOGO -->
 <div align="center">
@@ -38,7 +39,7 @@
 <!-- BUILT WITH -->
 ## Built with
 
-💡 <em> Trípoli v2</em> was created using the following technologies:
+💡 <em> Trípoli </em> was created using the following technologies:
 
 ![Bootstrap][Bootstrap] ![JavaScript] ![HTML5] ![CSS3]
 
@@ -58,8 +59,15 @@
 <p align="right">👆 <a href="#readme-top">Back to top</a></p>
 
 <!-- USAGE -->
-## Usage
+## Usage!
 
+### Filtering by categories
+
+![categories](https://user-images.githubusercontent.com/94662843/201493587-ed9dbab5-f04e-40ef-8a20-9e429eac5ea9.gif)
+
+### Searching products by name or category name
+
+![search](https://user-images.githubusercontent.com/94662843/201493559-543f3221-680c-4f18-b26b-124df6a926a2.gif)
 
 <!-- CONTACT -->
 ## Contact
